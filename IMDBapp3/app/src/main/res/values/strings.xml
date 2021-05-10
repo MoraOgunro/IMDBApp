@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TV App3</string>
+    <string name="docString">When you click on the button below, you will send an ordered broadcast. \
+        The matching receivers will display toast messages.</string>
+    <string name="startIntent">Start Broadcast Intent! </string>
+    <string name="option_5">option 5</string>
+    <string name="suboption">subOption</string>
+    <string name="option3">option3</string>
+    <string name="option2">Exit</string>
+    <string name="option1">Launch Apps</string>
+    <string name="permLabel">Kaboom permission</string>
+    <string name="permDescription">Access this permission even though it might make your phone go KABOOM</string>
+
+    <string name="mrrobot">Mt. Robot</string>
+
+    <string-array name="Titles">
+        <item>Mr. Robot</item>
+        <item>Attack on Titan</item>
+        <item>WandaVision</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>Now cracks a noble heart. Good-night, sweet prince: And flights of angels sing thee to thy rest.</item>
+        <item>As flies to wanton boys, are we to th\' gods. They kill us for their sport.</item>
+        <item>There is a tide in the affairs of men, which taken at the flood, leads on to fortune. Omitted, all the voyage of their life is bound in shallows and in miseries.</item>
+        <item>The first thing we do, let\'s kill all the lawyers.</item>
+        <item>A horse! a horse! my kingdom for a horse.</item>
+    </string-array>
+</resources>

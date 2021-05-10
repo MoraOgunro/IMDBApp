@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TV App1</string>
+    <string name="check_permissions">Check Permissions</string>
+    <string name="welcome_to_the_tv_app">Welcome to the TV app</string>
+</resources>
